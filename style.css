@@ -30,7 +30,6 @@ input {
   display: block;
   margin-top: 0.5rem;
   width: 100%;
-  outline: none;
 }
 
 label {
@@ -44,6 +43,7 @@ input {
   border: transparent;
   font-size: large;
   margin: 1rem 0;
+  outline: none;
 }
 
 #calculate-number {
